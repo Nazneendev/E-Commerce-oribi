@@ -27,21 +27,21 @@ const Banner = () => {
  <Slider {...settings}>
       <div className=''>
       <Link to={"https://www.creativeitinstitute.com/"} target='_blank' >
-      <div class="bg-[url('./bg.png')]  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
+      <div className="bg-[url('./bg.png')]  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
 
       </div>
       </Link>
       </div>
       <div>
       <Link to={"https://www.creativeitinstitute.com/"} target='_blank' >
-      <div class="bg-[url('./bg.png')]  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
+      <div className="bg-[url('./bg.png')]  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
 
       </div>
       </Link>
       </div>
       <div>
      
-      <div class="bg-[url('./bg.png')]  bg-center bg-cover bg-no-repeat  py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
+      <div className="bg-[url('./bg.png')]  bg-center bg-cover bg-no-repeat  py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
 
       </div>
      
