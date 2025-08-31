@@ -1,0 +1,53 @@
+.custom-color-picker::-webkit-color-swatch-wrapper {
+    padding: 0;
+  }
+  
+  .custom-color-picker::-webkit-color-swatch {
+    border: none;
+    border-radius: 9999px;
+    background-color: #979797 !important;
+  }
+
+  /* ======================= */
+  .custom-color-picker2::-webkit-color-swatch-wrapper {
+    padding: 0;
+  }
+  
+  .custom-color-picker2::-webkit-color-swatch {
+    border: none;
+    border-radius: 9999px;
+    background-color: #FF8686 !important;
+  }
+ 
+  /* ======================= */
+  .custom-color-picker3::-webkit-color-swatch-wrapper {
+    padding: 0;
+  }
+  
+  .custom-color-picker3::-webkit-color-swatch {
+    border: none;
+    border-radius: 9999px;
+    background-color: #7ED321 !important;
+  }
+  /* ======================= */
+  .custom-color-picker4::-webkit-color-swatch-wrapper {
+    padding: 0;
+  }
+  
+  .custom-color-picker4::-webkit-color-swatch {
+    border: none;
+    border-radius: 9999px;
+    background-color: #B6B6B6 !important;
+  }
+  /* ======================= */
+  .custom-color-picker5::-webkit-color-swatch-wrapper {
+    padding: 0;
+  }
+  
+  .custom-color-picker5::-webkit-color-swatch {
+    border: none;
+    border-radius: 9999px;
+    background-color: #15CBA5 !important;
+  }
+ 
+  
