@@ -8,7 +8,7 @@ const Add = () => {
      <div className='py-[100px]'>
      <Container>
    
-   <div className="bg-[url('../../assets/bannerwatch.png')] bg-center bg-cover bg-no-repeat  py-[50px]">
+   <div className="bg-[url('src/assets/bannerwatch.png')] bg-center bg-cover bg-no-repeat  py-[50px]">
     <div className='text-center px-4 md:px-8 lg:px-20 xl:px-32'>
         <h3 className='font-dm font-bold  text-[28px] md:text-[36px] lg:text-[42px] text-hoverC '>Phone of the year</h3>
         
@@ -31,4 +31,5 @@ const Add = () => {
 }
 
 export default Add
+
 
