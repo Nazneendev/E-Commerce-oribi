@@ -4,6 +4,7 @@ import "slick-carousel/slick/slick.css";
 import Slider from "react-slick";
 import PrevArrow from '../PrevArrow';
 import NextArrow from '../NextArrow';
+import bg from "../../assets/bg.png"
 
 
 
@@ -27,21 +28,21 @@ const Banner = () => {
  <Slider {...settings}>
       <div className=''>
       <Link to={"https://www.creativeitinstitute.com/"} target='_blank' >
-      <div className="bg-[url('src/assets/bg.png')]  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
+      <div style={{ backgroundImage: `url(${bg})` }} className="  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
 
       </div>
       </Link>
       </div>
       <div>
       <Link to={"https://www.creativeitinstitute.com/"} target='_blank' >
-      <div className="bg-[url('src/assets/bg.png')]  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
+      <div style={{ backgroundImage: `url(${bg})` }} className="  bg-center bg-cover bg-no-repeat py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
 
       </div>
       </Link>
       </div>
       <div>
      
-      <div className="bg-[url('src/assets/bg.png')]  bg-center bg-cover bg-no-repeat  py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
+      <div style={{ backgroundImage: `url(${bg})` }} className="  bg-center bg-cover bg-no-repeat  py-[125px] md:py-[250px] lg:py-[300px] xl:py-[350px]">
 
       </div>
      
